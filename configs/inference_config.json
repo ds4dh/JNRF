@@ -1,0 +1,11 @@
+{
+    "training_device": "cuda:1",
+    "embedding_dropout": 0,
+    "fnet_dropout": 0,
+    "hidden_dimension": 768,
+    "fnet_num_layer": 6,
+    "fnet_exp_factor": 3,
+    "ff_num_layer_NER": 3,
+    "ff_num_layer_RE": 3,
+    "model_name": "JNRF"
+}
