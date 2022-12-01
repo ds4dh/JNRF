@@ -7,6 +7,6 @@
     "fnet_exp_factor": 3,
     "ff_num_layer_NER": 3,
     "ff_num_layer_RE": 3,
-    "num_epoch": 2,
+    "num_epoch": 500,
     "model_name": "JNRF"
 }
