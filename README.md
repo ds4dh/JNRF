@@ -85,6 +85,10 @@ conda env remove --name JNRF
 
 Apply and download [data](https://portal.dbmi.hms.harvard.edu/projects/n2c2-2018-t2/). Then, put orginial raw test data (.txt and .ann files) in "data/test", and orginial raw train data (.txt and .ann files) in "data/train".
 
+## Download Spacy English pipeline
+
+```python -m spacy download en_core_web_sm```
+
 ## Step 1: Preprocessing
 
 see configs/preprocessing_config.json for configuration, then:
