@@ -1,3 +1,5 @@
+Code used for the manuscript "Efficient Joint Learning for Clinical Named Entity Recognition and Relation Extraction Using Fourier Networks: A Use Case in Adverse Drug Events".
+
 ----------------
 # Developed with
 
