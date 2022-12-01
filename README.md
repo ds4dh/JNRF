@@ -14,10 +14,6 @@
 
 You can install external libraries by running:
 
-```pip install -r requirements.txt```
-
-You can also create a dedicated environment using conda to avoid dependency issues:
-
 ```bash
 # Create the environment.
 conda create -n JNRF python=3.9.7
