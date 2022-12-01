@@ -1,5 +1,3 @@
-# Please refer to test_task_explanation.pdf for a concise explanation of what is done in this project.
-
 ----------------
 # Developed with
 
@@ -82,6 +80,10 @@ conda env remove --name JNRF
 
 ----------------
 # Typical pipeline
+
+## Access to data
+
+Apply and download [data](https://portal.dbmi.hms.harvard.edu/projects/n2c2-2018-t2/). Then, put orginial raw test data (.txt and .ann files) in "data/test", and orginial raw train data (.txt and .ann files) in "data/train".
 
 ## Step 1: Preprocessing
 
